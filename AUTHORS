@@ -1,9 +1,3 @@
-# This is the official list of authors for copyright purposes.
-# This file is distinct from the CONTRIBUTORS files.
-# See the latter for an explanation.
-
-# Names should be added to this file as:
-# Name or Organization <email address>
-# The email address is not required for organizations.
-
-Google Inc.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c04aa4049aeb3d8268ae43074ae89fb86ef5a5eb53ec0c453015bc1889bd6ca9
+size 302

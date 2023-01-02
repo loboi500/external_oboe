@@ -1,15 +1,3 @@
-Oboe documentation
-===
-- [Android Audio History](AndroidAudioHistory.md)
-- [API reference](https://google.github.io/oboe/reference/)
-- [Apps using Oboe](AppsUsingOboe.md)
-- [Changelog](ChangeLog.md)
-- [FAQs](FAQ.md)
-- [Full Guide to Oboe](FullGuide.md)
-- [Getting Started with Oboe](GettingStarted.md)
-- [Tech Notes](notes/)
-  - [Using Audio Effects with Oboe](notes/effects.md)
-  - [Disconnected Streams](notes/disconnect.md)
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b30f7a710a73c5291b8255246262ef3ff3f1b929e0538d72c698ee35dd7eead
+size 430
